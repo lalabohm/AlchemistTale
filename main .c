@@ -8,7 +8,7 @@
 /*
   RPG Interativo - Achemist Tale
   Contratante    : Immersive Digital Play (IDP)
-  Desenvolvedores: Artur Diniz & Larissa Böhm
+  Desenvolvedores: Larissa Böhm
 */
 
 
